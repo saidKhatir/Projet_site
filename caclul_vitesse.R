@@ -45,10 +45,3 @@ distances_num <- as.numeric(distances[cbind(1:(nrow(distances) - 1), 2:nrow(dist
 # Ajouter les distances à gps_data
 gps_data$distance_to_next <- c(distances_num, NA)  # Ajouter NA pour la dernière ligne
 
-rfrf
-hnhhhhh
-
-
-git config --global user.email "saidkhatir44@gmail.com"
-git config --global user.name "Said"
-=======
